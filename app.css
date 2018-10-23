@@ -1,0 +1,23 @@
+body {
+
+	background-image: url(header.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+.button {
+	border-radius: 25px;
+}
+
+hr {
+	width: 50px;
+	border:2px solid white;
+}
+
+h1 {
+	color: white;
+}
+
+.container {
+	margin-top: 250px;
+}
